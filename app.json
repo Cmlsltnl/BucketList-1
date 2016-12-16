@@ -1,0 +1,17 @@
+{
+  "name": "BucketList-1",
+  "description": "Bucketlist",
+  "scripts": {
+    "postdeploy": "bin/setuo"
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
